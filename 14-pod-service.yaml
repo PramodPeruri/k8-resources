@@ -6,7 +6,7 @@ metadata:
   labels:
     project: roboshop
     # component: frontend
-    # environment: dev
+    # environment: Dev
 spec:
   containers:
   - name: nginx
